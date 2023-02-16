@@ -1,0 +1,48 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '584140872444@s.whatsapp.net',
+    fromMe: false,
+    id: 'D1761F77534539EE9E6B7787AE20160C',
+    participant: undefined
+  },
+  messageTimestamp: 1675716020,
+  pushName: 'Eliezer',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola, estoy interesado en aprender a reparar celulares.',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola, estoy interesado en aprender a reparar celulares.',
+  from: '584140872444'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584140872444@s.whatsapp.net',
+    fromMe: false,
+    id: '8EEF2FE06F5083236CFAE87B04995C73',
+    participant: undefined
+  },
+  messageTimestamp: 1675716028,
+  pushName: 'Eliezer',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Eliezer',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Eliezer',
+  from: '584140872444'
+}
